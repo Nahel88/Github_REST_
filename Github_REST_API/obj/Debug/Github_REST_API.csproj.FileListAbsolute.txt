@@ -1,0 +1,13 @@
+C:\Users\KISSO\Documents\Visual Studio 2017\Projects\Github_REST_API\Github_REST_API\bin\Debug\Github_REST_API.exe.config
+C:\Users\KISSO\Documents\Visual Studio 2017\Projects\Github_REST_API\Github_REST_API\bin\Debug\Github_REST_API.exe
+C:\Users\KISSO\Documents\Visual Studio 2017\Projects\Github_REST_API\Github_REST_API\bin\Debug\Github_REST_API.pdb
+C:\Users\KISSO\Documents\Visual Studio 2017\Projects\Github_REST_API\Github_REST_API\bin\Debug\Octokit.dll
+C:\Users\KISSO\Documents\Visual Studio 2017\Projects\Github_REST_API\Github_REST_API\bin\Debug\Octokit.xml
+C:\Users\KISSO\Documents\Visual Studio 2017\Projects\Github_REST_API\Github_REST_API\obj\Debug\Github_REST_API.csprojAssemblyReference.cache
+C:\Users\KISSO\Documents\Visual Studio 2017\Projects\Github_REST_API\Github_REST_API\obj\Debug\Github_REST_API.Form1.resources
+C:\Users\KISSO\Documents\Visual Studio 2017\Projects\Github_REST_API\Github_REST_API\obj\Debug\Github_REST_API.Properties.Resources.resources
+C:\Users\KISSO\Documents\Visual Studio 2017\Projects\Github_REST_API\Github_REST_API\obj\Debug\Github_REST_API.csproj.GenerateResource.cache
+C:\Users\KISSO\Documents\Visual Studio 2017\Projects\Github_REST_API\Github_REST_API\obj\Debug\Github_REST_API.csproj.CoreCompileInputs.cache
+C:\Users\KISSO\Documents\Visual Studio 2017\Projects\Github_REST_API\Github_REST_API\obj\Debug\Github_REST_API.csproj.CopyComplete
+C:\Users\KISSO\Documents\Visual Studio 2017\Projects\Github_REST_API\Github_REST_API\obj\Debug\Github_REST_API.exe
+C:\Users\KISSO\Documents\Visual Studio 2017\Projects\Github_REST_API\Github_REST_API\obj\Debug\Github_REST_API.pdb
